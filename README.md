@@ -49,6 +49,24 @@ My professional interests include **Python development, Business Intelligence, A
 
 ---
 
+## 📌 Featured Projects
+
+### 🍕 Terelina — IoT Automated Counter System
+An IoT-based automated counting system developed during my embedded residency, combining firmware, backend services and dashboards for real-time monitoring and telemetry.
+
+**Tech Stack:** ESP32 • C/C++ • Python • FastAPI • Grafana • MQTT
+
+**Highlights**
+- Embedded firmware development for **ESP32**
+- Backend API with **FastAPI**
+- Real-time dashboards using **Grafana**
+- Sensor-based automated counting system
+- Hardware–software integration
+
+🔗 https://github.com/isBenvindo/iot-automated-counter
+
+---
+
 ## 📌 Featured Areas
 
 - IoT Dashboards with **Grafana**
